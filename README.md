@@ -13,7 +13,7 @@ To run the application after cloning the repository just type in the terminal(wh
 cd backend
 then run the command:)
 
-#sneak peek of the Code
+# sneak peek of the Code
 ## This is how the app.js file importing the screens pages (in screens folder)
 ![.](carbon(2).png)
 
