@@ -21,3 +21,6 @@ then run the command:)
 ## This is the return of the app function
 It switches between the different screen pages (in screens folder) whilst adding the header and footer components
 ![.](carbon(1).png)
+## Contributing
+Hassine Mohamed Anwer
+Dali Aziz
